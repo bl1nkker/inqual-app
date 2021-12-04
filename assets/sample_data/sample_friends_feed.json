@@ -1,0 +1,67 @@
+{
+    "feed": [
+        {
+            "id": "1",
+            "profileImageUrl": "assets/profile_pics/person_asat.jpg",
+            "comment": "sheeeeeeeeeeeeesh...",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "10"
+        },
+        {
+            "id": "2",
+            "profileImageUrl": "assets/profile_pics/person_danelya.jpg",
+            "comment": "On the radio, when this music is played, I always have some kind of good and light mood.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "80"
+        },
+        {
+            "id": "3",
+            "profileImageUrl": "assets/profile_pics/person_igor.jpg",
+            "comment": "I liked this music - it was not mine ...",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "20"
+        },
+        {
+            "id": "4",
+            "profileImageUrl": "assets/profile_pics/person_ilya.jpg",
+            "comment": "I liked this music - I put on the call.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "30"
+        },
+        {
+            "id": "5",
+            "profileImageUrl": "assets/profile_pics/person_nikita.jpg",
+            "comment": "Cool music is the one that makes you jump.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "40"
+        },
+        {
+            "id": "6",
+            "profileImageUrl": "assets/profile_pics/person_senya.jpg",
+            "comment": "My music is my life.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "id": "7",
+            "profileImageUrl": "assets/profile_pics/person_mark.jpg",
+            "comment": "Music for me is what makes me smile, sad, worry, rejoice, have fun ...",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "id": "8",
+            "profileImageUrl": "assets/profile_pics/person_islam.jpg",
+            "comment": "A new rock group - \"Yankee\" - sings about a new love.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "60"
+        },
+        {
+            "id": "9",
+            "profileImageUrl": "assets/profile_pics/person_madina.jpg",
+            "comment": "twenty one pilots - i need help...",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "70"
+        }
+    ]
+}

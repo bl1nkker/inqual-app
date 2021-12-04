@@ -1,0 +1,118 @@
+{
+    "recipes": [
+        {
+            "id": "1",
+            "cardType": "card1",
+            "title": "Trench",
+            "singer": "twenty one pilots",
+            "backgroundImage": "assets/magazine_pics/card_trench.jpg",
+            "backgroundImageSource": "https://www.foodiesfeed.com/free-food-photo/baker-with-wheat-flour/",
+            "message": "a charity concert",
+            "authorName": "Almaty, December 26, in Gorky Park",
+            "role": "Founder of Raywenderlich",
+            "authorImage": "assets/profile_pics/person_ray.jpeg",
+            "durationInMinutes": 15,
+            "dietType": "🌯Standard",
+            "calories": 136,
+            "tags": ["Carbs", "Dough", "Crunchy", "Yummy"],
+            "description": "food made of flour, water, and yeast or another leavening agent, mixed together and baked: a loaf of bread",
+            "source": "Apple Dictionary",
+            "ingredients": [
+                {
+                    "imageUrl": "food_flour.jpg",
+                    "title": "Flour",
+                    "source": "https://pixabay.com/photos/bake-butter-flour-mountain-pile-599521/" 
+                },
+                {
+                    "imageUrl": "food_dozen_eggs.jpg",
+                    "title": "Dozen Eggs",
+                    "source": "https://pixabay.com/photos/egg-hen-s-egg-food-nutrition-1374141/"
+                }
+            ],
+            "instructions": [
+                {   
+                    "imageUrl": "food_flour.jpg",
+                    "description": "Pour the flour on the table.",
+                    "durationInMinutes": 5
+                },
+                {   
+                    "imageUrl": "food_dozen_eggs.jpg",
+                    "description": "Mix the eggs with the flour. ",
+                    "durationInMinutes": 5
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "cardType": "card2",
+            "title": "Танцы на колясках",
+            "subtitle": "23 октября, 2021",
+            "backgroundImage": "assets/magazine_pics/card-inclusive-1.jpg",
+            "backgroundImageSource": "https://sputnik.kz/images/07e5/0a/12/18434174.jpg",
+            "message": "Much Tasty, Wow Smooth, Oh Nutty",
+            "authorName": "Алёна Мирош",
+            "role": "Журналист",
+            "profileImage": "assets/profile_pics/person_katz.jpeg",
+            "durationInMinutes": 15,
+            "dietType": "Standard",
+            "calories": 136,
+            "tags": ["Drink", "Nuts", "Smooth", "Energy"],
+            "description": "a thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.",
+            "source": "Apple Dictionary",
+            "ingredients": [
+                {
+                    "imageUrl": "food_peanutbutter.png",
+                    "title": "Peanut Butter",
+                    "source": "https://pixabay.com/photos/almond-blue-cook-cooking-egg-fat-1850615/" 
+                },
+                {
+                    "imageUrl": "food_soymilk.png",
+                    "title": "Soy Milk",
+                    "source": "https://pixabay.com/photos/soy-milk-soy-soybean-soy-milk-2263942/"
+                },
+                {
+                    "imageUrl": "food_banana.jpg",
+                    "title": "Banana",
+                    "source": "https://pixabay.com/photos/bananas-fruit-food-fresh-mature-3700718/"
+                }
+            ],
+            "instructions": [
+                {   
+                    "imageUrl": "food_banana.jpg",
+                    "description": "Peel the banana, cut it in half and place it in the blender.",
+                    "durationInMinutes": 1
+                },
+                {   
+                    "imageUrl": "",
+                    "description": "Add two big scoops of peanut butter.",
+                    "durationInMinutes": 1
+                },
+                {   
+                    "imageUrl": "",
+                    "description": "Add 2 cups of almond milk. Depending on the portion you may want to add more milk. You can add any type of milk you want.",
+                    "durationInMinutes": 5
+                }
+            ]
+        },
+        
+        {
+            "id": "4",
+            "cardType": "card3",
+            "title": "Другие мероприятия",
+            "singer": "",
+            "backgroundImage": "assets/magazine_pics/card_julia.jpg",
+            "backgroundImageSource": "https://www.foodiesfeed.com/free-food-photo/fresh-carrots-from-a-market/",
+            "message": "Trends of what people are making",
+            "chef": "",
+            "role": "",
+            "durationInMinutes": null,
+            "dietType": null,
+            "calories": null,
+            "tags": ["Благотворительный концерт BTS", "ROSE-GONE", "Инклюзивный театр", "Сбор средств для создания пандусов", "Пара-театр"],
+            "description": null,
+            "source": null,
+            "ingredients": null,
+            "instructions": null
+        }
+    ]
+}
