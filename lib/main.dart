@@ -62,6 +62,15 @@ class _MapScreenState extends State<MapScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text('INQUAL'),
+        backgroundColor: Colors.green,
+        actions: [
+          IconButton(onPressed: () {}, icon: Icon(Icons.people)),
+          IconButton(onPressed: () {}, icon: Icon(Icons.taxi_alert)),
+          IconButton(onPressed: () {}, icon: Icon(Icons.medical_services)),
+        ],
+      ),
       body: _currentIndex == 0
           ? Stack(
               alignment: Alignment.center,
@@ -175,7 +184,9 @@ class _MapScreenState extends State<MapScreen> {
             )
           : SizedBox(),
       bottomNavigationBar: BottomNavigationBar(
-        selectedItemColor: Theme.of(context).textSelectionTheme.selectionColor,
+        backgroundColor: Colors.green,
+        selectedItemColor: Colors.white,
+        unselectedItemColor: Colors.black,
         // Sets the current index of BottomNavigationBar.
         currentIndex: _currentIndex,
         onTap: (index) {
@@ -195,11 +206,7 @@ class _MapScreenState extends State<MapScreen> {
           const BottomNavigationBarItem(
             icon: Icon(Icons.event),
             label: 'Events',
-          ),
-          const BottomNavigationBarItem(
-            icon: Icon(Icons.room_service),
-            label: 'Services',
-          ),
+          )
         ],
       ),
     );
