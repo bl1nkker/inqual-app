@@ -3,6 +3,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:inqual_app/directions.dart';
 
 import 'package:inqual_app/screens/events_screen.dart';
+
 import 'package:inqual_app/screens/services_screen.dart';
 import 'package:inqual_app/maps_markers.dart';
 
